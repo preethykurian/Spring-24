@@ -1,0 +1,2 @@
+read item 1, item2, item3
+sum=item1+item2+item3
